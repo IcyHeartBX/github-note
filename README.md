@@ -39,6 +39,8 @@
 - Mvp开源项目：<https://github.com/yeungeek/monkey-android> 
 - RxJava教程：<https://github.com/lzyzsd/Awesome-RxJava> 
 - RxJava示例：<https://github.com/THEONE10211024/RxJavaSamples> 
+- 轮播的广告View:<https://github.com/Bakumon/BulletinView> 
+- 
 
 
 
