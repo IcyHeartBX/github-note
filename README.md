@@ -41,6 +41,8 @@
 - RxJava示例：<https://github.com/THEONE10211024/RxJavaSamples> 
 - 轮播的广告View:<https://github.com/Bakumon/BulletinView> 
 - 图片视频本地选择：<https://github.com/zhihu/Matisse> 
+- 开源跨平台WebRtc播放器：https://github.com/anyRTC/anyRTC-RTMP-OpenSource
+- 
 
 
 
