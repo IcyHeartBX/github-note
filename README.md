@@ -43,6 +43,8 @@
 - 图片视频本地选择：<https://github.com/zhihu/Matisse> 
 - 开源跨平台WebRtc播放器：https://github.com/anyRTC/anyRTC-RTMP-OpenSource
 - 跑马灯效果：https://github.com/gdutxiaoxu/MarqueeView
+- 按钮：<https://github.com/ansnail/SuperButton> 
+- 修炼手册：<https://github.com/5A59/android-training> 
 - 
 
 
