@@ -43,7 +43,7 @@
 - 图片视频本地选择：<https://github.com/zhihu/Matisse> 
 - 开源跨平台WebRtc播放器：https://github.com/anyRTC/anyRTC-RTMP-OpenSource
 - 跑马灯效果：https://github.com/gdutxiaoxu/MarqueeView
-- 
+- 快速完成列表内容：https://github.com/burgessjp/QuickDevLib
 
 
 
